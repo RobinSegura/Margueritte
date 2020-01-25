@@ -1,12 +1,12 @@
 # Chere Belle-Maman 
 
-:christmas_tree: Je vous souhaite un très joyeux noël :christmas_tree: 
+:santa: :christmas_tree: :gift: Je vous souhaite un très joyeux noël :gift: :christmas_tree: :santa: 
 
 J'aï ouï dire que vous vous lanciez dans le business, et pas n'importe lequel, le business de produits locaux, vrac et bio. A ce titre, vous avez solicité notre trés chère Nana en vue de la création d'un site web. C'est effectivement une excellente solution pour acroitre votre visibilité sur la toile. 
 
 J'ai donc voulu profiter de l'occasion pour mettre également mes competences à votre service. Vous trouverez donc dans les lignes ci-dessous, ce qui constituera votre cadeau de noël 2.0. Ce dernier en tant que service dématerialisé sera en réalité un kit de formation à la gestion d'une boutique en ligne. 
 
-Je vous inviterai donc, après avoir lu l'intégralité de ce message, à vous rendre sur [ce site web](http://github.com/RobinSegura/Margueritte) afin d'y suivre les étapes décrites. 
+Je vous inviterai donc, après avoir lu l'intégralité de ce message, à vous rendre sur [ce site web](http://github.com/RobinSegura/Margueritte/DOC/DOC.md) afin d'y suivre les étapes décrites. 
 
 Mais avant de commencer, je me dois de cibler votre besoin et vous expliquer quelques notions rudimentaire d'informatique. Voici donc ci-dessous une série de mots barbares accompagnés de leurs définitions pour vulgariser un monde quelques peu complexe à priori.
 
