@@ -31,6 +31,10 @@ Ici, commence la découverte de l'espace administrateur de votre site.
 ## Paramétrer votre site
 Wordpress peut faire bien plus que l'affichage d'une boutique. Tout est géré sous forme d'extensions, des modules appelés "plugins". Celui qu'il vous faut pour commencer est "WooComerce". Pour ce faire aller dans le menu latéral: Plugins
 
+### Installer les plugins de sécurité suivants:
+* [https://fr.wordpress.org/plugins/hide-my-wp/](https://fr.wordpress.org/plugins/hide-my-wp/)
+* [https://fr.wordpress.org/plugins/better-wp-security/](https://fr.wordpress.org/plugins/better-wp-security/)
+* [https://fr.wordpress.org/plugins/custom-login-url/](https://fr.wordpress.org/plugins/custom-login-url/)
 
 ### Installer le plugin WooCommerce (gratuit)
 
